@@ -1,0 +1,6 @@
+int main(){
+
+sum=a+b;
+return sum;
+
+}
