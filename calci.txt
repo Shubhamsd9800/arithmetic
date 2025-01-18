@@ -1,6 +1,10 @@
+#include<stdc.h/bits++>
+using namespace std;
+int sum(a,b){
+	return a+b;
+}
 int main(){
 
-sum=a+b;
-return sum;
-
+int ac= sum(2,4);
+return ac;
 }
