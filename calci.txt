@@ -1,6 +1,15 @@
+#include <stdc.h/bits++>
+using namespace std;
+
+int subs(int a, int b){
+
+return a-b;
+}
+
+
 int main(){
 
-sum=a+b;
+sum=subs(3,2);
 return sum;
 
 }
